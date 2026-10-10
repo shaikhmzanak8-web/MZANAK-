@@ -7,7 +7,7 @@ android {
     namespace = "com.mzanak.app"
     compileSdk = 35
     defaultConfig {
-        applicationId = "com.mzanak.app"
+        applicationId = "com.shaikh.mzanak"
         minSdk = 29
         targetSdk = 35
         versionCode = 1
